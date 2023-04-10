@@ -27,6 +27,7 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+*.env
 
 # Environment variables files
 /service/.env
